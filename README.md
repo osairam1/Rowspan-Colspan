@@ -1,2 +1,1 @@
-# Rowspan-Colspan
-About Rowspan &amp; Colspan Table
+About Rowspan & Colspan Table Repository
